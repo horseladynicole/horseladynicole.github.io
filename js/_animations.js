@@ -1,6 +1,6 @@
-import slideUp from '/js/transitions/slideUp.js'
-import once from '/js/transitions/once.js'
-import filters from '/js/transitions/filters.js'
+import slideUp from './transitions/slideUp.js'
+import once from './transitions/once.js'
+import filters from './transitions/filters.js'
 
 const { barba, barbaRouter: router} = window
 
