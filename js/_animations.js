@@ -1,6 +1,6 @@
-import slideUp from './transitions/slideUp.js'
-import once from './transitions/once.js'
-import filters from './transitions/filters.js'
+import slideUp from '/horseladynicole.github.io/transitions/slideUp.js'
+import once from '/horseladynicole.github.io/transitions/once.js'
+import filters from '/horseladynicole.github.io/transitions/filters.js'
 
 const { barba, barbaRouter: router} = window
 
